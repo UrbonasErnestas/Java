@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\bin\Debug\net6.0-windows\Skaiciu spejimas.exe
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\bin\Debug\net6.0-windows\Skaiciu spejimas.deps.json
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\bin\Debug\net6.0-windows\Skaiciu spejimas.runtimeconfig.json
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\bin\Debug\net6.0-windows\Skaiciu spejimas.dll
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\bin\Debug\net6.0-windows\Skaiciu spejimas.pdb
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu_spejimas.Form1.resources
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.AssemblyInfo.cs
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.dll
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\refint\Skaiciu spejimas.dll
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.pdb
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\Skaiciu spejimas.genruntimeconfig.cache
+C:\Users\User\source\repos\Skaiciu spejimas\Skaiciu spejimas\obj\Debug\net6.0-windows\ref\Skaiciu spejimas.dll
