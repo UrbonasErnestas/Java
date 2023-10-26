@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WhackaMole\WhackaMole\bin\Debug\net6.0-windows\WhackaMole.exe
+C:\Users\User\source\repos\WhackaMole\WhackaMole\bin\Debug\net6.0-windows\WhackaMole.deps.json
+C:\Users\User\source\repos\WhackaMole\WhackaMole\bin\Debug\net6.0-windows\WhackaMole.runtimeconfig.json
+C:\Users\User\source\repos\WhackaMole\WhackaMole\bin\Debug\net6.0-windows\WhackaMole.dll
+C:\Users\User\source\repos\WhackaMole\WhackaMole\bin\Debug\net6.0-windows\WhackaMole.pdb
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.Form1.resources
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.AssemblyInfo.cs
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.dll
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\refint\WhackaMole.dll
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.pdb
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\WhackaMole.genruntimeconfig.cache
+C:\Users\User\source\repos\WhackaMole\WhackaMole\obj\Debug\net6.0-windows\ref\WhackaMole.dll
