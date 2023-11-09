@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Whack a mole 2/1.0.0": {
+        "runtime": {
+          "Whack a mole 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Whack a mole 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

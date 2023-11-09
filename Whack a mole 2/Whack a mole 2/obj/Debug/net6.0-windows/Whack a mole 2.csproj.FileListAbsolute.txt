@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\bin\Debug\net6.0-windows\Whack a mole 2.exe
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\bin\Debug\net6.0-windows\Whack a mole 2.deps.json
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\bin\Debug\net6.0-windows\Whack a mole 2.runtimeconfig.json
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\bin\Debug\net6.0-windows\Whack a mole 2.dll
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\bin\Debug\net6.0-windows\Whack a mole 2.pdb
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack_a_mole_2.Form1.resources
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.AssemblyInfo.cs
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.dll
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\refint\Whack a mole 2.dll
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.pdb
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\Whack a mole 2.genruntimeconfig.cache
+C:\Users\User\source\repos\Whack a mole 2\Whack a mole 2\obj\Debug\net6.0-windows\ref\Whack a mole 2.dll
