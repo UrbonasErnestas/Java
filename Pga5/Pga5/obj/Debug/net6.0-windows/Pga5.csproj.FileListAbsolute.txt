@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Pga5\Pga5\bin\Debug\net6.0-windows\Pga5.exe
+C:\Users\User\Desktop\Pga5\Pga5\bin\Debug\net6.0-windows\Pga5.deps.json
+C:\Users\User\Desktop\Pga5\Pga5\bin\Debug\net6.0-windows\Pga5.runtimeconfig.json
+C:\Users\User\Desktop\Pga5\Pga5\bin\Debug\net6.0-windows\Pga5.dll
+C:\Users\User\Desktop\Pga5\Pga5\bin\Debug\net6.0-windows\Pga5.pdb
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.Form1.resources
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.AssemblyInfo.cs
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.dll
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\refint\Pga5.dll
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.pdb
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\Pga5.genruntimeconfig.cache
+C:\Users\User\Desktop\Pga5\Pga5\obj\Debug\net6.0-windows\ref\Pga5.dll
